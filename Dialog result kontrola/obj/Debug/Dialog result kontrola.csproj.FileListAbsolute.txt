@@ -1,0 +1,11 @@
+C:\Users\ucenik\Documents\GabrielCondricNIOP\Dialog result kontrola\bin\Debug\Dialog result kontrola.exe.config
+C:\Users\ucenik\Documents\GabrielCondricNIOP\Dialog result kontrola\bin\Debug\Dialog result kontrola.exe
+C:\Users\ucenik\Documents\GabrielCondricNIOP\Dialog result kontrola\bin\Debug\Dialog result kontrola.pdb
+C:\Users\ucenik\Documents\GabrielCondricNIOP\Dialog result kontrola\obj\Debug\Dialog result kontrola.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\GabrielCondricNIOP\Dialog result kontrola\obj\Debug\Dialog result kontrola.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\GabrielCondricNIOP\Dialog result kontrola\obj\Debug\DialogResultKontrola.FormDialogResult.resources
+C:\Users\ucenik\Documents\GabrielCondricNIOP\Dialog result kontrola\obj\Debug\Dialog_result_kontrola.Properties.Resources.resources
+C:\Users\ucenik\Documents\GabrielCondricNIOP\Dialog result kontrola\obj\Debug\Dialog result kontrola.csproj.GenerateResource.cache
+C:\Users\ucenik\Documents\GabrielCondricNIOP\Dialog result kontrola\obj\Debug\Dialog result kontrola.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\GabrielCondricNIOP\Dialog result kontrola\obj\Debug\Dialog result kontrola.exe
+C:\Users\ucenik\Documents\GabrielCondricNIOP\Dialog result kontrola\obj\Debug\Dialog result kontrola.pdb
